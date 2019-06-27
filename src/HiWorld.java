@@ -6,5 +6,6 @@ public class HiWorld {
     public static void main(String[] args) {
         System.out.println("Hi World");
         System.out.println("2019年6月27日17:42:21");
+        System.out.println("2019年6月27日17:52:21");
     }
 }
